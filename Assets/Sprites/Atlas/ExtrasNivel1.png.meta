@@ -1,0 +1,1212 @@
+fileFormatVersion: 2
+guid: 9bd3d27786d207b40a88ccbdf751677d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7618531042243592624
+    second: ExtrasNivel1_0
+  - first:
+      213: -5138004929362256318
+    second: ExtrasNivel1_1
+  - first:
+      213: 3338351348676460603
+    second: ExtrasNivel1_2
+  - first:
+      213: -7463212635823813990
+    second: ExtrasNivel1_3
+  - first:
+      213: -690212089130415300
+    second: ExtrasNivel1_4
+  - first:
+      213: 6130875527243634118
+    second: ExtrasNivel1_5
+  - first:
+      213: 3825615235549106501
+    second: ExtrasNivel1_6
+  - first:
+      213: 4823627684967795126
+    second: ExtrasNivel1_7
+  - first:
+      213: -6410312952789334198
+    second: ExtrasNivel1_8
+  - first:
+      213: 1564572154711125799
+    second: ExtrasNivel1_9
+  - first:
+      213: -9058407741677225092
+    second: ExtrasNivel1_10
+  - first:
+      213: -8126107448217003567
+    second: ExtrasNivel1_11
+  - first:
+      213: 1107056418845998277
+    second: ExtrasNivel1_12
+  - first:
+      213: -6115945604805480174
+    second: ExtrasNivel1_13
+  - first:
+      213: -404292646876114830
+    second: ExtrasNivel1_14
+  - first:
+      213: 2642370227852329901
+    second: ExtrasNivel1_15
+  - first:
+      213: 1648442380698772205
+    second: ExtrasNivel1_16
+  - first:
+      213: -7614544837222266728
+    second: ExtrasNivel1_17
+  - first:
+      213: 2779898102198811425
+    second: ExtrasNivel1_18
+  - first:
+      213: -9070052597503090471
+    second: ExtrasNivel1_19
+  - first:
+      213: -3961104505809948411
+    second: ExtrasNivel1_20
+  - first:
+      213: 1657164513020528010
+    second: ExtrasNivel1_21
+  - first:
+      213: -7697819710161086298
+    second: ExtrasNivel1_22
+  - first:
+      213: -3708669355342246055
+    second: ExtrasNivel1_23
+  - first:
+      213: 7412178827145718484
+    second: ExtrasNivel1_24
+  - first:
+      213: 3842344467793472925
+    second: ExtrasNivel1_25
+  - first:
+      213: 5147005262992555056
+    second: ExtrasNivel1_26
+  - first:
+      213: -3388297600808195307
+    second: ExtrasNivel1_27
+  - first:
+      213: -826655875788107215
+    second: ExtrasNivel1_28
+  - first:
+      213: 9186308956949755712
+    second: ExtrasNivel1_29
+  - first:
+      213: -2540194567474253356
+    second: ExtrasNivel1_30
+  - first:
+      213: 2574595259917390186
+    second: ExtrasNivel1_31
+  - first:
+      213: 3625232505391939132
+    second: ExtrasNivel1_32
+  - first:
+      213: -8593671771099145561
+    second: ExtrasNivel1_33
+  - first:
+      213: -4269347002412730675
+    second: ExtrasNivel1_34
+  - first:
+      213: -3276525493994876811
+    second: ExtrasNivel1_35
+  - first:
+      213: 4584614078775783144
+    second: ExtrasNivel1_36
+  - first:
+      213: 5437025834685525797
+    second: ExtrasNivel1_37
+  - first:
+      213: -1687656786370793407
+    second: ExtrasNivel1_38
+  - first:
+      213: 7019993515750631424
+    second: ExtrasNivel1_39
+  - first:
+      213: -8196234948094004837
+    second: ExtrasNivel1_40
+  - first:
+      213: -5986023128469938061
+    second: ExtrasNivel1_41
+  - first:
+      213: -6756877839165587904
+    second: ExtrasNivel1_42
+  - first:
+      213: 3720197737273930988
+    second: ExtrasNivel1_43
+  - first:
+      213: 1795153470631247297
+    second: ExtrasNivel1_45
+  - first:
+      213: -7686233463266380306
+    second: ExtrasNivel1_44
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 74.99
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ExtrasNivel1_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 113
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eb8ccb16a854690800000000000000
+      internalID: -7618531042243592624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 113
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e18233db322b8b0800000000000000
+      internalID: -5138004929362256318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 113
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b308e414dd4345e20800000000000000
+      internalID: 3338351348676460603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 104
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ac38646a75d6890800000000000000
+      internalID: -7463212635823813990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 113
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b83b703cfdb66f0800000000000000
+      internalID: -690212089130415300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 113
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c51e7b2fce351550800000000000000
+      internalID: 6130875527243634118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 113
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5411a3aa9c0571530800000000000000
+      internalID: 3825615235549106501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9ce33a2d7f0f240800000000000000
+      internalID: 4823627684967795126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4708ed255ef907a0800000000000000
+      internalID: -6410312952789334198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_9
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 91
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f2603d51a76b510800000000000000
+      internalID: 1564572154711125799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b3ea607221a4280800000000000000
+      internalID: -9058407741677225092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 100
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d99e5e64544a3f80800000000000000
+      internalID: -8126107448217003567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 87
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccb1af82fd0d5f00800000000000000
+      internalID: 1107056418845998277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 87
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21135f740ebcf1ba0800000000000000
+      internalID: -6115945604805480174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 87
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27095adcaf9a36af0800000000000000
+      internalID: -404292646876114830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 87
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3c43ce8b59ba420800000000000000
+      internalID: 2642370227852329901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_16
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 87
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2ef368c9170e610800000000000000
+      internalID: 1648442380698772205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 87
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898051b60d3b35690800000000000000
+      internalID: -7614544837222266728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 71
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bb75d689e249620800000000000000
+      internalID: 2779898102198811425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_19
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 71
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d028bfb733b02280800000000000000
+      internalID: -9070052597503090471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 71
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501bff450745709c0800000000000000
+      internalID: -3961104505809948411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_21
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 71
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85c8f4385e6ff610800000000000000
+      internalID: 1657164513020528010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_22
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 71
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a819d622c9db2590800000000000000
+      internalID: -7697819710161086298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 71
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fc275eed8288cc0800000000000000
+      internalID: -3708669355342246055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 71
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da21b33f595dd660800000000000000
+      internalID: 7412178827145718484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 58
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d64839fefb25530800000000000000
+      internalID: 3842344467793472925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_26
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 58
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03cbcb54406dd6740800000000000000
+      internalID: 5147005262992555056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_27
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 58
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51be486b8495af0d0800000000000000
+      internalID: -3388297600808195307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 58
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132192c5cd02784f0800000000000000
+      internalID: -826655875788107215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 58
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047baff33535c7f70800000000000000
+      internalID: 9186308956949755712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 45
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1f159df7a6fbcd0800000000000000
+      internalID: -2540194567474253356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_31
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 45
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61d7c38fbccab320800000000000000
+      internalID: 2574595259917390186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 45
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ef510a1c96f4230800000000000000
+      internalID: 3625232505391939132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_33
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 45
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa555f2e052db880800000000000000
+      internalID: -8593671771099145561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 45
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc67f42758b30c4c0800000000000000
+      internalID: -4269347002412730675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_35
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 45
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5709ce84c617782d0800000000000000
+      internalID: -3276525493994876811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 45
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee6fadd632df9f30800000000000000
+      internalID: 4584614078775783144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_37
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f6d07a032347b40800000000000000
+      internalID: 5437025834685525797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1407799281d3498e0800000000000000
+      internalID: -1687656786370793407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_39
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008acd7b8e60c6160800000000000000
+      internalID: 7019993515750631424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_40
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91f63f7dbf114e80800000000000000
+      internalID: -8196234948094004837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_41
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370e6421eaf5deca0800000000000000
+      internalID: -5986023128469938061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e73dd976fba32a0800000000000000
+      internalID: -6756877839165587904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_43
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 15
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4bc60b12cc0a330800000000000000
+      internalID: 3720197737273930988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_45
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 15
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdf846029aa9e810800000000000000
+      internalID: 1795153470631247297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExtrasNivel1_44
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 28
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee579497363055590800000000000000
+      internalID: -7686233463266380306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
